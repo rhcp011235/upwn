@@ -3,6 +3,9 @@ upwn IPSW Download, Extraction, and Decryption Utility for the iPhone,
 *Change Log*
 Version 1.0 - initial Release
 Version 1.1 - Major Update To Provide Compatibility and support for upwn, Added ChangeLog, fixes several bugs that prevent binary from working properly,
+Version 1.2 - Updated Description, Added Source Code HTML Link To GitHub, Fixes An Issue That Causes Files To Reside After Uninstallation Hogging Space, upwn_log.log updated /usr/bin/upwn.sh updated, postrm added "patch to fix files residing", preinst updated, added upwnUpdateTut.txt
 
 *Known Issues*
 Utility should work 100% fine now although some reports of BatteryFull Not Being Extracted Properly "could be a key issue"
+
+Some Encrypted Garbage img3 Files are Not removed after Decryprion 
