@@ -2,8 +2,8 @@ Package: com.pwn24k.upwn84
 Section: Terminal
 Maintainer: PWN24K <null@null>
 Architecture: iphoneos-arm
-Version: 1.3
-Depends: unzip, xpwn, curl
-Description: Download, Extract, and Decrypt IPSW all from the device with no computer needed, No need to manually input Key/IV either Just Run upwn.sh as root, useful for extracting firmwares for DualBoots and restores as well as other options CURRENTLY ONLY DOWNLOADS, EXTRACTS, AND DECRYPTS iOS 8.4 FOR iPhone 5,3.  Will be updated shortly to support other OS Source Code Can Be Found Here https://github.com/rhcp011235/upwn
+Version: 1.4
+Depends: un4ip, xpwn, curl
+Description: Download, Extract, and Decrypt IPSW all from the device with no computer needed, No need to manually input Key/IV either Just Run upwn.sh as root, useful for extracting firmwares for DualBoots and restores as well as other options CURRENTLY ONLY DOWNLOADS, EXTRACTS, AND DECRYPTS iOS 8.4 FOR iPhone 5,3 and is bug free Source Code Can Be Found Here https://github.com/rhcp011235/upwn, Will Be adding Support For New Device and Firmwares Now
 Name: upwn The Better IPSW Decryption Utility
 Author: PWN24K <null@null>
