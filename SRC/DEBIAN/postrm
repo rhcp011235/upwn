@@ -1,3 +1,4 @@
 #!/bin/sh
-echo cleaning device for removal please wait 
+echo cleaning device please wait
+mkdir /var/mobile/IPSW
 rm -r /var/mobile/IPSW
