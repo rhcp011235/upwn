@@ -9,5 +9,7 @@ echo Version 1.3 - Fixees a small issue in update
 echo Version 1.4 - Fixes all Known Bugs Finishing 100% support for iPhone 5,3 on iOS 8.4, updated changelog, added upwnlite.sh For Manual Extraction and decrypting, without having to download the IPSW
 echo Version 1.4.1 fixes installation error 
 echo Version 1.4.2 Adds Support For iPhone 5,4 for iOS 8.4 now and fixed a very minor issue in upwn_iPhone5,4_8.4.sh
+echo Version 1.4.3 Introduces Support For iPhone 5,2
+echo Version 1.4.4 Fixes Bug in upwn_iPhone5,2_8.4.sh that prevents ipsw from being extracted 
 echo *Known Issues*
 echo For Now None, just make sure Devices is connected to wifi if you have limited data or want to ensure a faster download 
